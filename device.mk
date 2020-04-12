@@ -10,8 +10,8 @@ $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
 # Setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
-# GoogleCamera
-$(call inherit-product-if-exists, packages/apps/GoogleCamera/gcam.mk)
+#ANX Camera
+$(call inherit-product-if-exists, vendor/MiuiCamera/config.mk)
 
 -include $(LOCAL_PATH)/vendor_prop.mk
 
