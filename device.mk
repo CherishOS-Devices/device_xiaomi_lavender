@@ -11,7 +11,7 @@ $(call inherit-product, vendor/xiaomi/lavender/lavender-vendor.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
 #ANX Camera
-$(call inherit-product-if-exists, vendor/MiuiCamera/config.mk)
+$(call inherit-product-if-exists, vendor/xiaomi/MiuiCamera/config.mk)
 
 -include $(LOCAL_PATH)/vendor_prop.mk
 
