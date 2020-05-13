@@ -651,4 +651,7 @@
 	
     <!-- for statusbar padding -->
     <dimen name="status_bar_extra_padding">8dp</dimen>
+
+    <!-- Show battery icon in the QS Panel instead of in the header -->
+    <bool name="config_batteryInQSPanel">false</bool>
 </resources>
