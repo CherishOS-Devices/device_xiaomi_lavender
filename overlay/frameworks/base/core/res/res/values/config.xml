@@ -657,4 +657,7 @@
 	
     <!-- Smart charge sysfs node and value for suspend/resume charging and specify support-->
     <bool name="config_SmartChargingAvailable">true</bool>
+
+    <!-- Default state for LiveDisplay -->
+    <bool name="config_liveDisplayAvailable">true</bool>
 </resources>
