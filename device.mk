@@ -170,9 +170,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.configstore@1.1-service
     
-# Device-specific settings
+# Dirac
 PRODUCT_PACKAGES += \
-    XiaomiParts
+    MiSoundEnhancer
 
 # Display
 PRODUCT_PACKAGES += \
