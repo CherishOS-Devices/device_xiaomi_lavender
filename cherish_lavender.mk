@@ -27,6 +27,9 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 7
 PRODUCT_MANUFACTURER := Xiaomi
 
+# Vanilla
+CHERISH_NOGAPPS=true
+
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.cherish.maintainer=hungphan2001
