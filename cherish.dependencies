@@ -2,7 +2,7 @@
   {
     "repository": "stormbreaker-project/lavender",
     "target_path": "kernel/xiaomi/lavender",
-    "branch": "oldcam-rebase"
+    "branch": "oldcam-hmp"
   },
   {
     "repository": "lavender-evergarden/packages_apps_GoogleCamera_lavender",
