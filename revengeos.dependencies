@@ -19,5 +19,23 @@
     "repository": "ArrowOS-Devices/android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
     "branch": "arrow-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "AOSP-11/hardware_qcom-caf_display_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998-r/display",
+    "branch": "11"  
+  },
+  {
+    "remote": "github",
+    "repository": "AOSP-11/hardware_qcom-caf_audio_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998-r/audio",
+    "branch": "11"  
+  },
+  {
+    "remote": "github",
+    "repository": "AOSP-11/hardware_qcom-caf_media_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998-r/media",
+    "branch": "11"  
   }
 ]
